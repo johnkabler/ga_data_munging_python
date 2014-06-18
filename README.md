@@ -5,7 +5,9 @@
 This course is a workshop meant to give you a hands-on feel for what grappling with data
 in Python is like. You will gain useful skills that will help you work with relatively
 large quantities of data in a quick manner, as well as an introduction on how to teach
-yourself new techniques in the open source software world.
+yourself new techniques in the open source software world.  Consider it a foundation
+for some of General Assemb.ly's more advanced courses, including the [awesome
+Data Science course](https://generalassemb.ly/education/data-science/washington-dc).  
 
 What you need:  
 
