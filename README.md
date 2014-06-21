@@ -13,7 +13,7 @@ What you need:
 
 1. A brain and a willingness to learn
   * SOME experience with programming in the past will be very helpful
-  * Definitely need to be compute literate.
+  * Definitely need to be computer literate.
 
 2. A laptop computer (Mac, Windows, Linux are all good)
 
